@@ -17,3 +17,6 @@ He/Him
 
 ⚡ **Fun Fact:**  
 In my free time, I enjoy exploring new tech tools, playing chess, working on side projects, and finding the best coffee spots around Boston!
+
+
+Also check out my other Github Account [GitHub](https://github.com/atharvakonge)
